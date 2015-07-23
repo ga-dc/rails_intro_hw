@@ -7,6 +7,7 @@ You're homework for this weekend is to read this weekend.
 What you'll be reading:
 
 [Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html)
+- Up to Chapter 6: Add a second model
 
 After you're finished reading, your assignment is to submit an issue to this repo with the following information:
 
