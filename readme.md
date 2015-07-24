@@ -14,6 +14,8 @@ After you're finished reading, your assignment is to submit an issue to this rep
 - List two things how rails is different from Sinatra
 - List two things how rails is similar to Sinatra
 
+Objective- The point is not to understand everything. The point is to familiarize yourself with terminology and syntax to better prepare you for the upcoming week.
+
 ### BONUS
 
 Follow along with the tutorial and create a single model CRUD application
