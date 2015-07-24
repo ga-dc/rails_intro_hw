@@ -2,7 +2,7 @@
 
 Great job guys, you've already learned your very first web framework, Sinatra! And that's awesome!!
 
-You're homework for this weekend is to read this weekend.
+Your homework for this weekend is to read this weekend.
 
 What you'll be reading:
 
