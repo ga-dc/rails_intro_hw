@@ -15,12 +15,3 @@ After you're finished reading, your assignment is to submit an issue to this rep
 - List two things how rails is similar to Sinatra
 
 Objective- The point is not to understand everything. The point is to familiarize yourself with terminology and syntax to better prepare you for the upcoming week.
-
-### BONUS
-
-Follow along with the tutorial and create a single model CRUD application
-
-
-### MEGA BONUS
-
-Keep going in the tutorial and create a two model CRUD application.
